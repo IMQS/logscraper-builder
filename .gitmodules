@@ -1,0 +1,6 @@
+[submodule "src/github.com/IMQS/logscraper"]
+	path = src/github.com/IMQS/logscraper
+	url = git@github.com:IMQS/logscraper.git
+[submodule "src/gopkg.in/natefinch/lumberjack.v2"]
+	path = src/gopkg.in/natefinch/lumberjack.v2
+	url = git@github.com:natefinch/lumberjack.git
