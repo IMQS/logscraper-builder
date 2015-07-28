@@ -4,3 +4,6 @@
 [submodule "src/gopkg.in/natefinch/lumberjack.v2"]
 	path = src/gopkg.in/natefinch/lumberjack.v2
 	url = git@github.com:natefinch/lumberjack.git
+[submodule "src/golang.org/x/sys"]
+	path = src/golang.org/x/sys
+	url = git@github.com:golang/sys
