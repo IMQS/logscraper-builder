@@ -8,3 +8,8 @@ To run the logscraper:
 
 	env
 	go run src/github.com/IMQS/logscraper/cmd/main.go
+
+To debug the logscraper, open main.go, and change a line in there to read
+
+	s.SendToLoggly = false
+
