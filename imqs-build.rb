@@ -26,6 +26,7 @@ end
 case ARGV[0]
 	when "prepare"	then
 		exec_or_die("go install github.com/IMQS/logscraper/cmd")
+	when "copy_out" then
 		FileUtils.cp("bin/cmd.exe", out_dir + '/bin/logscraper.exe')
 	when "test_unit" then
 	when "test_integration" then
