@@ -7,3 +7,6 @@
 [submodule "src/golang.org/x/sys"]
 	path = src/golang.org/x/sys
 	url = git@github.com:golang/sys
+[submodule "src/github.com/IMQS/serviceconfigsgo"]
+	path = src/github.com/IMQS/serviceconfigsgo
+	url = git@github.com:IMQS/serviceconfigsgo.git
